@@ -16,4 +16,4 @@ TClapInstrument is almost fully compatible with TVSTInstrument in the past. Only
 
 As an example there is TmyClap which is almost the same as the previous TmyVstPlugin. Only a few renames, mostly replacing ‘vst’ with ‘clap’ ! 
 
-This is a prelimenary version. If you have comments/bugs please let me know! 
+This is a preliminary version. If you have comments/bugs please let me know! 
